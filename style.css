@@ -9,9 +9,26 @@ header {
 }
 
 .booleaner {
-    height: 200p;
+    height: 200px;
 }
 
+#scritto-da {
+    font-size: 18px;
+    color: darkgrey;
+}
+
+#autore {
+    color: deepskyblue;
+    font-size: 18px;
+}
+
+#data {
+    color: darkgray;
+}
+
+#titolo {
+    margin-bottom: 1px
+}
 /* main {
     margin: 5%;
 } */
