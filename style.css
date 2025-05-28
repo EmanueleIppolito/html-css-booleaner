@@ -8,6 +8,17 @@ header {
     margin-right: -10px;
 }
 
+table{
+    border-spacing: 0px;
+    height: 80px;
+}
+th {
+    background-color: cornflowerblue;
+    color: white;
+    border: 0px;
+    text-align: justify;
+}
+
 p {
     border: 800px;
     margin-right: 450px;
