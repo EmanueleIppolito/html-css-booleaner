@@ -1,0 +1,17 @@
+header {
+    background-color: cornflowerblue;
+    background-image: url(img/pattern.png);
+    background-size: 390px;
+    display: flex;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.booleaner {
+    height: 200p;
+}
+
+/* main {
+    margin: 5%;
+} */
