@@ -8,6 +8,12 @@ header {
     margin-right: -10px;
 }
 
+p {
+    border: 800px;
+    margin-right: 450px;
+    margin-bottom: 1px;
+}
+
 .booleaner {
     height: 200px;
 }
